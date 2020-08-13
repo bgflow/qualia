@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+
+
+h1,h2 {
+  font-family: 'Raleway', sans-serif;
+  color: #ab34eb;
+}
+
+
+body {background-color: #f0f0f0;
+	font-family: 'Verdana', serif
+}
+
+img {
+	border-radius: 0%;
+}
+

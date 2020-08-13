@@ -1,0 +1,13 @@
+name: Qualia
+title: Qualia
+username:
+account: bengalassi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1749106
+bundleId: 3456250
+url: https://bengalassi.shinyapps.io/Qualia/
+when: 1596139644.9781
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|desktop.ini|planning/Qualia Planning.docx|test data/TestCodebook.xlsx|test data/TestData.xlsx|test data/TestLexicon.xlsx
